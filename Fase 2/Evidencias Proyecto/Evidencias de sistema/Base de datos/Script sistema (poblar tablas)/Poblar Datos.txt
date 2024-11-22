@@ -1,0 +1,27 @@
+Para poblar la base de datos
+Se debe activar el ambiente virtual, luego ir al directorio 
+donde se encuentra el archivo manage.py y correr los siguientes comandos
+en el siguiente orden:
+1ero:
+python manage.py 0_crear_establecimiento
+
+2do:
+python manage.py 1_crear_profesor_media_3
+
+3ero:
+python manage.py 2_crear_cursos_media_3
+
+4to:
+python manage.py 3_crear_apoderado_media_3
+
+5to:
+python manage.py 4_alumno_apoderado_3
+
+6to:
+python manage.py 5_asignar_curso_3
+
+7mo:
+python manage.py 6_asisfin_asismatri
+
+8vo:
+python manage.py 7_dire_subdire_sostenedor
